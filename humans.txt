@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Remington	remington.davids@gmail.com	@rcdCSGO
 
 # THANKS
 
