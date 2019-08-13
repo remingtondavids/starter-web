@@ -1,2 +1,3 @@
 .crossdomain.xml
+*.orig
 log/
